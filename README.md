@@ -1,4 +1,3 @@
-# Visualización de proyección de volumen facturado por tipo de conexión,tipo de tarifa, distrito y tiempo.
 
 # 1.Primera perspectiva de análisis usando Hypercards de Microstrategy y como key word lo siguiente:
   1.1 Unidad de Uso :Se refiere a la medida estándar de consumo de agua potable por parte de un usuario o cliente.
